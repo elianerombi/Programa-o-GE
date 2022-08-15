@@ -1,10 +1,17 @@
 body{
-background-color:#696969;
+background-color:#808080;
 font-size: 50px;
-color: #0000cd;
+color: #0000cd;}
+#imagem1 {
+  padding: 10px;
+  margin-left: 400px;
+  width: 40%;
+  border: 10px solid;
 
+<div class= "principal">
+background-color:  #606060;
 
-
-
+ul }
+display: inline-block;
 
 }
